@@ -111,6 +111,7 @@ title('Frequency modulated signal');
 
 ## Tabulation
 
+![WhatsApp Image 2025-09-28 at 22 50 10 (1)](https://github.com/user-attachments/assets/05d985e3-1732-4d2e-a379-095cb466c6f8)
 
 
 ## Calculation
